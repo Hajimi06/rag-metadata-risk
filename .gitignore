@@ -15,3 +15,6 @@ data/
 .DS_Store
 Thumbs.db
 *.log
+
+# Office/Excel 临时锁文件
+~$*
